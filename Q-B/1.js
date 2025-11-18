@@ -1,0 +1,20 @@
+// ------------------------------------------------------------
+// Hoisting & let / var / const
+// ------------------------------------------------------------
+
+// Predict the output of the following code.
+// Write your answer below the code or as comments.
+
+// ------------------------------------------------------------
+
+console.log(a);
+console.log(b);
+console.log(c);
+
+var a = 10;
+let b = 20;
+const c = 30;
+
+// ------------------------------------------------------------
+// Add your answer below this line
+// ------------------------------------------------------------
